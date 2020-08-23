@@ -1,6 +1,8 @@
 {
   "balance": {
-    "value": 1569.46
+    "resource": {
+      "value": 1569.46
+    }
   },
   "incomes": [
     {

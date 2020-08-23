@@ -4,6 +4,7 @@
   "description": "simple-budget web api server",
   "main": "src/server.js",
   "scripts": {
+    "test": "node node_modules/jest/bin/jest.js --watchAll",
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
@@ -15,6 +16,8 @@
   "author": "andyk",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.16.1"
+    "jest": "^26.4.2",
+    "json-server": "^0.16.1",
+    "shortid": "^2.2.15"
   }
 }
