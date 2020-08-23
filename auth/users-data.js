@@ -4,7 +4,11 @@ module.exports = [
         password: 'skaska'
     },
     {
-        username: 'andyk',
-        password: 'klaus'
+        username: 'mamma',
+        password: 'taniusa'
+    },
+    {
+        username: 'papi',
+        password: 'andriusa'
     }
 ];
